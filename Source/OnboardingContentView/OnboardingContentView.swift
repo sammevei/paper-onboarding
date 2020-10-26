@@ -18,8 +18,8 @@ class OnboardingContentView: UIView {
 
     fileprivate struct Constants {
         static let dyOffsetAnimation: CGFloat = 110
-        static let showDuration: Double = 0.8
-        static let hideDuration: Double = 0.2
+        static let showDuration: Double = 1.8
+        static let hideDuration: Double = 1.2
     }
 
     fileprivate var currentItem: OnboardingContentViewItem?
